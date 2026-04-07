@@ -17,7 +17,7 @@ jypark2873@gmail.com
     - 홈페이지 : <https://www.kw.ac.kr/ko/univ/depart_intro.jsp?hpage=college_011_03>
 
 ## 인턴 경력
-- [**삼성**] | 백엔드 개발 인턴 (2029.06 ~ 2030.05)
+- [**삼성SDS**] | 백엔드 개발 인턴 (2029.06 ~ 2030.05)
     - JAVA 기반 API 서버 유지보수 및 유닛 테스트 코드 작성
     - Github 기반의 협업 워크플로우 (PR, Code Review)를 통한 팀 프로젝트 참여
 
